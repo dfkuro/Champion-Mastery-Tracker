@@ -1,4 +1,4 @@
-# Champion Mastery - Riot API Challenge
+# Champion Mastery Tracker - Riot API Challenge
 
 ## Description 
 
